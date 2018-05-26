@@ -1,0 +1,8 @@
+#Binaries
+.DS_Store
+
+#vendor directory
+/vendor
+
+#Outputs
+*.out
